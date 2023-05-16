@@ -1,0 +1,29 @@
+body {
+    color: #808080;
+}
+
+.navbar,
+main,
+footer,
+.modal {
+    font-family: "Raleway", sans-serif;
+}
+
+form .form-control,
+form .btn {
+    border-radius: 10px;
+}
+
+.green-helper-spacer {
+    width: 100%;
+    height: 15px;
+    background-color: #006600;
+}
+
+.menu-bar-line {
+    width: 100%;
+    height: 1px;
+    background-image: linear-gradient(to right, #006600, #1a8c1a, #006600);
+    display: block;
+}
+
